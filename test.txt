@@ -7,3 +7,6 @@ new
 cat
 bear
 elephant
+lion
+tiger
+dog
