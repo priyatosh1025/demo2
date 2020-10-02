@@ -4,3 +4,6 @@ DWIVEDI
 new
 new
 new
+lion
+tiger
+dog
