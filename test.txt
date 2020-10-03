@@ -1,12 +1,3 @@
-Avil
-mLLICK
-DWIVEDI
-new
-new
-new
-cat
-bear
-elephant
-lion
-tiger
-dog
+mike
+john
+david
